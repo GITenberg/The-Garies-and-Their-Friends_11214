@@ -1,5 +1,5 @@
 _repo: The-Garies-and-Their-Friends_11214
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   author_of_introduction:
     agent_name: Stowe, Harriet Beecher
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '115'
     url: http://www.gutenberg.org/2009/agents/115
     wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Webb, Frank J.
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3887
     wikipedia: http://en.wikipedia.org/wiki/Frank_J._Webb
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11214#The-Garies-and-Their-Friends
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
